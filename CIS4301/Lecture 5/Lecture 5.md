@@ -20,35 +20,35 @@ E.X. Gym Management:
 	
 		![[Pasted image 20240119094445.png]]
 	
-	Draw weak entity sets:
-	
+Draw weak entity sets:
+
 		![[Pasted image 20240119094254.png]]
-	
-	Identify key attributes of weak entity sets:
+
+Identify key attributes of weak entity sets:
 	
 		![[Pasted image 20240119094515.png]]
 	
-	Draw said attributes:
+Draw said attributes:
 	
 		![[Pasted image 20240119094405.png]]
 	
-	Identify relationship sets:
+Identify relationship sets:
 	
 		![[Pasted image 20240119094610.png]]
 
-	Draw relationship sets:
+Draw relationship sets:
 	
 		![[Pasted image 20240119094638.png]]
 
-	Identify attributes of identifying relationship sets:
+Identify attributes of identifying relationship sets:
 	
 		![[Pasted image 20240119094759.png]]
 
-	Draw attributes of identifying relationship sets:
+Draw attributes of identifying relationship sets:
 		
 		![[Pasted image 20240119094836.png]]
 
-	Insert cardinalities:
+Insert cardinalities:
 		
 		![[Pasted image 20240119094859.png]]
 
