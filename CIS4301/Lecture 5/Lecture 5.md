@@ -16,7 +16,7 @@ Main steps for design an E-R diagram:
 	Identify attributes of identifying relationship sets
 	Insert cardinalities
 
-E.X. Gym Management:	![[Pasted image 20240119094445.png]]
+E.X. Gym Management:	![][[Pasted image 20240119094445.png]]
 	
 Draw weak entity sets:	![[Pasted image 20240119094254.png]]
 
