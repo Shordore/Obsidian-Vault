@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff3eb165eb1b4aa9",
+            "id": "8c70186358942fad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md",
+                "file": "CIS4301/Lecture 7/Lecture 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md",
+                "file": "CIS4301/Lecture 7/Lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md",
+                "file": "CIS4301/Lecture 7/Lecture 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md"
+                "file": "CIS4301/Lecture 7/Lecture 7.md"
               }
             }
           }
@@ -146,20 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7000b508c969d0e",
+  "active": "8c70186358942fad",
   "lastOpenFiles": [
-    "CIS4301/Lecture 5/Pasted image 20240119094254.png",
+    "Pasted image 20240124100751.png",
+    "Pasted image 20240124100636.png",
+    "Pasted image 20240124100024.png",
+    "Pasted image 20240124095929.png",
+    "Pasted image 20240124095400.png",
+    "Pasted image 20240124095111.png",
+    "CIS4301/Untitled.md",
+    "CIS4301/Lecture 7/Lecture 7.md",
+    "CIS4301/Lecture 7",
     "CIS4301/Lecture 5/Lecture 5.md",
+    "CIS4301/Lecture 5/Pasted image 20240119094254.png",
     "Pasted image 20240119095336.png",
     "Pasted image 20240119094445.png",
     "CIS4301/Lecture 5/Pasted image 20240119095336.png",
     "CIS4301/Lecture 5/Pasted image 20240119094859.png",
-    "CIS4301/Lecture 5/Pasted image 20240119094836.png",
-    "CIS4301/Lecture 5/Pasted image 20240119094759.png",
-    "CIS4301/Lecture 5/Pasted image 20240119094638.png",
-    "CIS4301/Lecture 5/Pasted image 20240119094610.png",
-    "CIS4301/Lecture 5/Pasted image 20240119094604.png",
-    "CIS4301/Lecture 5/Pasted image 20240119094515.png",
     "CIS4301/Lecture 5",
     "CIS4301/untitled folder",
     "CIS4301/Lecture 5.md",
