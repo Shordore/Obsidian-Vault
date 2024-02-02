@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c70186358942fad",
+            "id": "79545a2134f0a746",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIS4301/Lecture 7/Lecture 7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIS4301/Lecture 7/Lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIS4301/Lecture 7/Lecture 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CIS4301/Lecture 7/Lecture 7.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +138,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c70186358942fad",
+  "active": "79545a2134f0a746",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "CIS4301/Project Ideas and Links.md",
+    "Lecture 9/Lecture 9.md",
+    "CIS4301/Lecture 11.md",
+    "Pasted image 20240124095400.png",
+    "Pasted image 20240124095111.png",
     "Pasted image 20240124100751.png",
+    "CIS4301/Lecture 7/Lecture 7.md",
+    "Lecture 9",
     "Pasted image 20240124100636.png",
     "Pasted image 20240124100024.png",
     "Pasted image 20240124095929.png",
-    "Pasted image 20240124095400.png",
-    "Pasted image 20240124095111.png",
-    "CIS4301/Untitled.md",
-    "CIS4301/Lecture 7/Lecture 7.md",
     "CIS4301/Lecture 7",
     "CIS4301/Lecture 5/Lecture 5.md",
     "CIS4301/Lecture 5/Pasted image 20240119094254.png",
     "Pasted image 20240119095336.png",
     "Pasted image 20240119094445.png",
     "CIS4301/Lecture 5/Pasted image 20240119095336.png",
-    "CIS4301/Lecture 5/Pasted image 20240119094859.png",
     "CIS4301/Lecture 5",
     "CIS4301/untitled folder",
     "CIS4301/Lecture 5.md",
