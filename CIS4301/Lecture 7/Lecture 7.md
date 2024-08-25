@@ -11,20 +11,20 @@ The key of the entity set is the primary key of the relation shcema
 
 Each tuple in R is one entity in E
 
-![[../../Pasted image 20240124095111.png]]
+![[Pasted image 20240124095111.png]]
 
 
 For each weak entity set W with the strong entity E, an independent relation schema R is made with simple attributes, and simple composites of W
 
 Primary key attributes of E are added to R as foreign key attributes. Key of R arises from primary keys of E and partial keys of W.
 
-![[../../Pasted image 20240124095400.png]]
+![[Pasted image 20240124095400.png]]
 
 For each 1:1 relationship set R let S and T be the relational schemas that corresponds to the entity set in R. S is selected and primary key T is added to S as a foreign key. if S totally participates in R you should add the primary ket of T to S. All simple attributes and all simple component of composite attributes of R are taken as attributes of S.
 
-![[../../Pasted image 20240124095929.png]]
+![[Pasted image 20240124095929.png]]
 
-![[../../Pasted image 20240124100024.png]]
+![[Pasted image 20240124100024.png]]
 Each department is linked to exactly one employee
 No null values for attribute "emp_ID"
 
@@ -38,11 +38,11 @@ The names of attributes of a foreign key have to be changed sometimes in order t
 
 - A new relation schema R is created for each multivalued attribute A. R comprises an attribute corresponding to A and as a foreign key the primary key K of the relation schema which corresponds to the entity set or relationship set containing A as an attribute. The primary key of R is the combination of A and K. If the multivalued attribute is composite, its simple components are added to R.
 
-![[../../Pasted image 20240124100636.png]]
+![[Pasted image 20240124100636.png]]
 
 Generalizations are not represented by own relation. It is already expressed by the fact that the key of the common superclass is used as the key of the specialized subclasses.
 
-![[../../Pasted image 20240124100751.png]]
+![[Pasted image 20240124100751.png]]
 
 Information on a professor is distributed by two tuples of two relations. Relation of *employees* to a tuple of *professors*.
 
