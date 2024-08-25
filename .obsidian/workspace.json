@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md",
+                "file": "STA3032/Module 1/Module 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md",
+                "file": "STA3032/Module 1/Module 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md",
+                "file": "STA3032/Module 1/Module 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIS4301/Lecture 5/Lecture 5.md"
+                "file": "STA3032/Module 1/Module 1 Notes.md"
               }
             }
           }
@@ -146,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd7cba645bb42701",
+  "active": "a7000b508c969d0e",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "CIS4301/Lecture 5/Lecture 5.md",
+    "Untitled.canvas",
     "Lecture 9/Lecture 9.md",
     "Data Annotation/Andromeda - Evaluate long summaries about emails (ID H-15301)Untitled.md",
     "CIS4301/Lecture 7/Pasted image 20240124095111.png",
     "CIS4301/Lecture 7/Pasted image 20240124095929.png",
     "CIS4301/Lecture 7/Lecture 7.md",
-    "STA3032/Module 1/Module 1 Notes (Summer Practice).md",
+    "STA3032/Module 1/Module 1 Notes.md",
     "STA3032/Module 1",
     "STA3032/Module 1/Pasted image 20240813224549.png",
     "STA3032/Module 1/Pasted image 20240824224806.png",
