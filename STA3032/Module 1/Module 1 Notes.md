@@ -201,4 +201,4 @@ Box Plot
 		(iv) The potential outliers (lying outside the interval $Q_1− 1.5· IQR, Q_3 + 1.5· IQR$) are denoted separately with special symbols such as a dot or a star.
 	![[Pasted image 20240824224753.png]]
 	![[Pasted image 20240824224806.png]]
-	
+

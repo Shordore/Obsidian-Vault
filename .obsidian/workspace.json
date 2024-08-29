@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "1845cd66dd790469",
+    "id": "6254d6d21e90ea5d",
     "type": "split",
     "children": [
       {
-        "id": "04503fa551c03233",
+        "id": "d56f0e833dd6ec26",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7cba645bb42701",
+            "id": "2f63f7239aed0a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA3032/Module 1/Module 1 Notes.md",
+                "file": "STA3032/Module 2/Module 2 Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ce1099fc3bdd790",
+    "id": "42080c8000f45313",
     "type": "split",
     "children": [
       {
-        "id": "95b07d868c4b9520",
+        "id": "58ff3b2171073075",
         "type": "tabs",
         "children": [
           {
-            "id": "a7000b508c969d0e",
+            "id": "f8479a5772afb123",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "adba58df5633b0a9",
+            "id": "219dfd5a2ffa4c30",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "8cbbc86a04dfc125",
+            "id": "89877acb970bfd02",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "33345eb4bd20739c",
+    "id": "a3ebac445d94aa5e",
     "type": "split",
     "children": [
       {
-        "id": "b21e663726104692",
+        "id": "270658104aaf5001",
         "type": "tabs",
         "children": [
           {
-            "id": "e2edd4fae7dc308e",
+            "id": "adc0b4efcb6a1d54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STA3032/Module 1/Module 1 Notes.md",
+                "file": "STA3032/Module 2/Module 2 Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "8d89e5ebf526037a",
+            "id": "67adbad9eb1e2882",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STA3032/Module 1/Module 1 Notes.md",
+                "file": "STA3032/Module 2/Module 2 Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "184c544e41d2ce65",
+            "id": "12117abd4a0e9f07",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "4f5a2f4be7a3ccfa",
+            "id": "8a5bbd4cbb153a37",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "STA3032/Module 1/Module 1 Notes.md"
+                "file": "STA3032/Module 2/Module 2 Probability.md"
               }
             }
           }
@@ -143,40 +143,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a7000b508c969d0e",
+  "active": "2f63f7239aed0a6f",
   "lastOpenFiles": [
-    "CIS4301/Lecture 5/Lecture 5.md",
-    "Untitled.canvas",
-    "Lecture 9/Lecture 9.md",
-    "Data Annotation/Andromeda - Evaluate long summaries about emails (ID H-15301)Untitled.md",
-    "CIS4301/Lecture 7/Pasted image 20240124095111.png",
-    "CIS4301/Lecture 7/Pasted image 20240124095929.png",
-    "CIS4301/Lecture 7/Lecture 7.md",
+    "Recording 20240829145312.webm",
     "STA3032/Module 1/Module 1 Notes.md",
-    "STA3032/Module 1",
-    "STA3032/Module 1/Pasted image 20240813224549.png",
-    "STA3032/Module 1/Pasted image 20240824224806.png",
-    "STA3032/Module 1/Pasted image 20240824224753.png",
-    "STA3032/Module 1/Pasted image 20240824224010.png",
-    "STA3032/Module 1/Pasted image 20240824223111.png",
-    "STA3032/Module 1/Pasted image 20240824222748.png",
-    "STA3032/Module 1/Pasted image 20240824222725.png",
-    "STA3032/Module 1/Pasted image 20240824222656.png",
-    "STA3032",
-    "CEN3031/In Person Activity 02.02.24.md",
-    "Data Annotation/Untitled.md",
-    "CIS4301/Project Ideas and Links.md",
-    "Data Annotation",
-    "CEN3031",
-    "CIS4301/Lecture 11.md",
-    "Lecture 9",
-    "CIS4301/Lecture 7",
-    "CIS4301/Lecture 5",
-    "CIS4301/untitled folder",
-    "CIS4301/Lecture 5.md",
-    "CIS4301"
+    "STA3032/Module 2/Module 2 Probability.md",
+    "STA3032/Module 2/Pasted image 20240827194512.png",
+    "STA3032/Module 2/Pasted image 20240827195608.png",
+    "STA3032/Module 2/Pasted image 20240827195255.png",
+    "COP4600/Module 1/Module 1.md",
+    "COP4600/Module 0/Module 0 Notes.md",
+    "COP4600/Module 1",
+    "COP4600/Module 0/Pasted image 20240827153338.png",
+    "STA3032/Module 2/Pasted image 20240826215114.png",
+    "COP4600/Module 0/Pasted image 20240827153139.png",
+    "STA3032/Module 2/Pasted image 20240826215040.png",
+    "STA3032/Module 2/Pasted image 20240826205649.png",
+    "STA3032/Module 2/Pasted image 20240826205900.png",
+    "STA3032/Module 2/Pasted image 20240826151902.png",
+    "COP4600/Module 0",
+    "COP4600",
+    "STA3032/Module 2"
   ]
 }
