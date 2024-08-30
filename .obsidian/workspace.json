@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d56f0e833dd6ec26",
+        "id": "726aa24b7b0d721e",
         "type": "tabs",
         "children": [
           {
-            "id": "2f63f7239aed0a6f",
+            "id": "e8efda46f3576e9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STA3032/Module 2/Module 2 Probability.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STA3032/Module 2/Module 2 Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STA3032/Module 2/Module 2 Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "STA3032/Module 2/Module 2 Probability.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "e55d31a9a3393ca5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
         ]
@@ -147,15 +147,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2f63f7239aed0a6f",
+  "active": "e8efda46f3576e9d",
   "lastOpenFiles": [
+    "CEN3031/Assignments/In Class 08.30.24.md",
+    "CEN3031/In Person Activity 02.02.24.md",
+    "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+    "CEN3031/Assignments",
+    "CEN3031/Assignments/M2 Code of Ethics",
+    "COP4600/Module 1/Module 1.md",
+    "COP4600/Module 1/Pasted image 20240829161203.png",
+    "STA3032/Module 2/Module 2 Probability.md",
     "Recording 20240829145312.webm",
     "STA3032/Module 1/Module 1 Notes.md",
-    "STA3032/Module 2/Module 2 Probability.md",
     "STA3032/Module 2/Pasted image 20240827194512.png",
     "STA3032/Module 2/Pasted image 20240827195608.png",
     "STA3032/Module 2/Pasted image 20240827195255.png",
-    "COP4600/Module 1/Module 1.md",
     "COP4600/Module 0/Module 0 Notes.md",
     "COP4600/Module 1",
     "COP4600/Module 0/Pasted image 20240827153338.png",
@@ -164,7 +170,6 @@
     "STA3032/Module 2/Pasted image 20240826215040.png",
     "STA3032/Module 2/Pasted image 20240826205649.png",
     "STA3032/Module 2/Pasted image 20240826205900.png",
-    "STA3032/Module 2/Pasted image 20240826151902.png",
     "COP4600/Module 0",
     "COP4600",
     "STA3032/Module 2"

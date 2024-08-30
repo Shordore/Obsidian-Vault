@@ -13,3 +13,12 @@ Job
 	A task to be completed
 	Often a program waiting for execution
 
+![[Pasted image 20240829161203.png]]
+
+Operating Systems act as a:
+	Process Manager
+	Memory Manager
+	I/O Device
+
+
+

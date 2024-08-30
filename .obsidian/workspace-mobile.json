@@ -128,11 +128,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "46b7af3e4a3eb98b",
   "lastOpenFiles": [
+    "STA3032/Module 2/Pasted image 20240827194512.png",
+    "STA3032/Module 2/Pasted image 20240827195608.png",
+    "STA3032/Module 2/Pasted image 20240827195255.png",
     "Pasted image 20240827194512.png",
     "Pasted image 20240827195608.png",
     "Pasted image 20240827195255.png",
@@ -146,9 +151,6 @@
     "STA3032/Module 2/Pasted image 20240826215114.png",
     "STA3032/Module 2/Pasted image 20240826205649.png",
     "STA3032/Module 2/Pasted image 20240826151902.png",
-    "STA3032/Module 2/Pasted image 20240826215040.png",
-    "STA3032/Module 2/Pasted image 20240826144855.png",
-    "STA3032/Module 2/Pasted image 20240826205900.png",
     "STA3032/Module 1/Module 1 Notes.md",
     "STA3032/Module 2/Module 2 Probability.md",
     "STA3032/Module 2",
