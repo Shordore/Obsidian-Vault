@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA3032/Module 2/Module 2 Probability.md",
+                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "STA3032/Module 2/Module 2 Probability.md",
+            "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "STA3032/Module 2/Module 2 Probability.md",
+            "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "STA3032/Module 2/Module 2 Probability.md"
+            "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md"
           }
         }
       }
@@ -135,6 +135,12 @@
   },
   "active": "46b7af3e4a3eb98b",
   "lastOpenFiles": [
+    "STA3032/Module 2/Module 2 Probability.md",
+    "COP4600/Module 1/Pasted image 20240829161203.png",
+    "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+    "CEN3031/Assignments/M2 Code of Ethics",
+    "CEN3031/Assignments/In Class 08.30.24.md",
+    "CEN3031/Assignments",
     "STA3032/Module 2/Pasted image 20240827194512.png",
     "STA3032/Module 2/Pasted image 20240827195608.png",
     "STA3032/Module 2/Pasted image 20240827195255.png",
@@ -149,10 +155,7 @@
     "COP4600/Module 0",
     "COP4600",
     "STA3032/Module 2/Pasted image 20240826215114.png",
-    "STA3032/Module 2/Pasted image 20240826205649.png",
-    "STA3032/Module 2/Pasted image 20240826151902.png",
     "STA3032/Module 1/Module 1 Notes.md",
-    "STA3032/Module 2/Module 2 Probability.md",
     "STA3032/Module 2",
     "Untitled.canvas",
     "CIS4301/Lecture 5/Lecture 5.md",
@@ -163,9 +166,7 @@
     "CEN3031",
     "STA3032/Module 1",
     "STA3032",
-    "CIS4301/Lecture 7",
     "CIS4301/Project Ideas and Links.md",
-    "CIS4301/Lecture 5",
     "Test.md"
   ]
 }

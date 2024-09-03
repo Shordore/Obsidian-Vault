@@ -11,8 +11,12 @@
             "id": "e8efda46f3576e9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3ebac445d94aa5e",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md"
+              }
             }
           },
           {
