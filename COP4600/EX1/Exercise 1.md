@@ -1,0 +1,3 @@
+
+Things to install:
+man

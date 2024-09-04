@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+                "file": "COP4600/EX1/Exercise 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3ebac445d94aa5e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+                "file": "COP4600/EX1/Exercise 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+                "file": "COP4600/EX1/Exercise 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md"
+                "file": "COP4600/EX1/Exercise 1.md"
               }
             }
           },
@@ -158,27 +157,31 @@
   },
   "active": "e8efda46f3576e9d",
   "lastOpenFiles": [
+    "STA3032/Module 2/Module 2 Probability.md",
+    "COP4600/EX1/Exercise 1.md",
+    "COP4600/EX1",
+    "Pasted image 20240904154226.png",
+    "Pasted image 20240904154114.png",
+    "Pasted image 20240904153604.png",
+    "Pasted image 20240904153123.png",
+    "Pasted image 20240904151722.png",
+    "Pasted image 20240904151459.png",
+    "Pasted image 20240904151319.png",
+    "Pasted image 20240904150956.png",
+    "Pasted image 20240904150937.png",
+    "COP4600/P0/P0 Report.md",
+    "COP4600/Module 0/Module 0 Notes.md",
+    "COP4600/Module 1/Module 1.md",
+    "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+    "COP4600/P0",
     "CEN3031/Assignments/In Class 08.30.24.md",
     "CEN3031/In Person Activity 02.02.24.md",
-    "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
     "CEN3031/Assignments",
     "CEN3031/Assignments/M2 Code of Ethics",
-    "COP4600/Module 1/Module 1.md",
     "COP4600/Module 1/Pasted image 20240829161203.png",
-    "STA3032/Module 2/Module 2 Probability.md",
     "Recording 20240829145312.webm",
     "STA3032/Module 1/Module 1 Notes.md",
-    "STA3032/Module 2/Pasted image 20240827194512.png",
-    "STA3032/Module 2/Pasted image 20240827195608.png",
-    "STA3032/Module 2/Pasted image 20240827195255.png",
-    "COP4600/Module 0/Module 0 Notes.md",
     "COP4600/Module 1",
-    "COP4600/Module 0/Pasted image 20240827153338.png",
-    "STA3032/Module 2/Pasted image 20240826215114.png",
-    "COP4600/Module 0/Pasted image 20240827153139.png",
-    "STA3032/Module 2/Pasted image 20240826215040.png",
-    "STA3032/Module 2/Pasted image 20240826205649.png",
-    "STA3032/Module 2/Pasted image 20240826205900.png",
     "COP4600/Module 0",
     "COP4600",
     "STA3032/Module 2"

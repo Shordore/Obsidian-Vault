@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+                "file": "STA3032/Module 2/Module 2 Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+            "file": "STA3032/Module 2/Module 2 Probability.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+            "file": "STA3032/Module 2/Module 2 Probability.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md"
+            "file": "STA3032/Module 2/Module 2 Probability.md"
           }
         }
       }
@@ -123,21 +123,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "46b7af3e4a3eb98b",
   "lastOpenFiles": [
+    "Pasted image 20240904151459.png",
+    "Pasted image 20240904151722.png",
+    "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
+    "Pasted image 20240904150937.png",
+    "Pasted image 20240904151319.png",
+    "Pasted image 20240904150956.png",
     "STA3032/Module 2/Module 2 Probability.md",
     "COP4600/Module 1/Pasted image 20240829161203.png",
-    "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
     "CEN3031/Assignments/M2 Code of Ethics",
     "CEN3031/Assignments/In Class 08.30.24.md",
     "CEN3031/Assignments",
@@ -146,15 +150,11 @@
     "STA3032/Module 2/Pasted image 20240827195255.png",
     "Pasted image 20240827194512.png",
     "Pasted image 20240827195608.png",
-    "Pasted image 20240827195255.png",
     "COP4600/Module 1/Module 1.md",
-    "COP4600/Module 0/Pasted image 20240827153338.png",
-    "COP4600/Module 0/Pasted image 20240827153139.png",
     "COP4600/Module 0/Module 0 Notes.md",
     "COP4600/Module 1",
     "COP4600/Module 0",
     "COP4600",
-    "STA3032/Module 2/Pasted image 20240826215114.png",
     "STA3032/Module 1/Module 1 Notes.md",
     "STA3032/Module 2",
     "Untitled.canvas",

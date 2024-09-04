@@ -81,3 +81,69 @@ Multiplication Rule
 	![[Pasted image 20240827195255.png]]
 	![[Pasted image 20240827195608.png]]
 
+
+Factorial
+	Given by:
+	$n! = n(n-1) ... (2)(1)$
+	$0! = 1$
+	
+Theorem
+	Number of permutations of n objects with r length
+	$nPr = \frac {n1} {(n-r)!}$ 
+	Proof
+		![[Pasted image 20240904150937.png]]
+	![[Pasted image 20240904150956.png]]
+
+Theorem
+	Number of distinct permutations of n objects of which $n_k$ of a $k_th$ kind
+		$\frac {n!} {n_1 ! n_2 ! ... n_k !}$
+		![[Pasted image 20240904151319.png]]
+
+Combination
+	Subset of n distinct objects
+	![[Pasted image 20240904151459.png]]
+
+Theorem
+	Number of combinations of distinct objects taken r at a time
+		$n \choose {r}$ $= \frac {n!} {r!(n-r)!}$ 
+		![[Pasted image 20240904151722.png]]
+
+
+<p style = "font-size: 30px;"> Probability of an Event </p>
+The probability of an outcome is the proportion of times the outcome would occur in a long run of observations
+
+Axioms of Probability
+	A is an event. P is a probability function if:
+		(i) $0 \leq P(A) \leq 1$
+		(ii) P(S) = 1
+		(iii) if $A_1, A_2, A_3, ...$ is a sequence of mutually exclusive events, then
+			$P(A_1 \cup A_2 \cup A_3 \cup ...) = \sum_{i = 1}^{\infty} P(A_i)$ 
+
+Theorem
+	S has N different equally likely outcomes, exactly n of these outcomes correspons to event A, then prob of event A is:
+		$P(A) = \frac {n} {N}$
+		![[Pasted image 20240904153123.png]]
+
+Theorem
+	If A and B are two events
+		$P(A\cup B) = P(A) + P(B) - P (A\cap B)$
+	If A and B are mutually exclusive then
+		$P(A\cup B) = P(A) + P(B)$
+	![[Pasted image 20240904153604.png]]
+
+Theorem
+	If A and $A^\prime$ are complementary events, then
+		$P(A^\prime) = 1 - P(A)$ 
+	![[Pasted image 20240904154114.png]]
+
+Theorem
+	if $A \subseteq B$, then $P(A) \leq P(B)$
+	![[Pasted image 20240904154226.png]]
+
+
+<p style="font-size: 30px;"> Conditional Probability and Independence</p>
+
+Conditional Probability
+	A and B are events. conditional probability of B given A 
+	Denoted as $P(B|A)$ 
+

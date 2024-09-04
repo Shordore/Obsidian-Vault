@@ -20,5 +20,21 @@ Operating Systems act as a:
 	Memory Manager
 	I/O Device
 
+<p style = "font-size: 30px;"> File Systems</p>
+	Give pattern to data on disk
+	Have a specified mounting scheme
+	Usually have naming and directory system
+	Possibly have Redundancy and Networking
+	Modern systems don't read directly from the disk
+
+Naming Calls
+	Procedure Calls
+		Local Variables
+		Pointer to entry/return
+	System Calls
+		Involves context switch into kernel mode
+		Generally, there is a system library entry point
+		
+
 
 
