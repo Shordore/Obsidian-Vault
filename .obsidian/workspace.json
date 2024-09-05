@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8efda46f3576e9d",
+            "id": "dffa6e2facfacbb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COP4600/EX1/Exercise 1.md",
+                "file": "COP4600/Assignments/P0/P0 Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COP4600/EX1/Exercise 1.md",
+                "file": "COP4600/Assignments/P0/P0 Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COP4600/EX1/Exercise 1.md",
+                "file": "COP4600/Assignments/P0/P0 Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COP4600/EX1/Exercise 1.md"
+                "file": "COP4600/Assignments/P0/P0 Report.md"
               }
             }
           },
@@ -155,35 +155,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e8efda46f3576e9d",
+  "active": "f8479a5772afb123",
   "lastOpenFiles": [
+    "COP4600/Notes",
+    "COP4600/Assignments",
+    "CEN3031/Assignments/Open Source Contribution/CEN3031 Open Source Approval.md",
+    "STA3032/Module 2/Pasted image 20240904150937.png",
+    "STA3032/Module 2/Pasted image 20240904154226.png",
+    "STA3032/Module 2/Pasted image 20240904150956.png",
+    "STA3032/Module 2/Pasted image 20240904151319.png",
+    "STA3032/Module 2/Pasted image 20240904151459.png",
+    "STA3032/Module 2/Pasted image 20240904151722.png",
+    "STA3032/Module 2/Pasted image 20240904153123.png",
+    "STA3032/Module 2/Pasted image 20240904153604.png",
+    "STA3032/Module 2/Pasted image 20240904154114.png",
+    "COP4600/Assignments/EX1/Exercise 1.md",
+    "CEN3031/Assignments/Open Source Contribution",
+    "CEN3031/Assignments/Untitled.md",
     "STA3032/Module 2/Module 2 Probability.md",
-    "COP4600/EX1/Exercise 1.md",
-    "COP4600/EX1",
-    "Pasted image 20240904154226.png",
-    "Pasted image 20240904154114.png",
-    "Pasted image 20240904153604.png",
-    "Pasted image 20240904153123.png",
-    "Pasted image 20240904151722.png",
-    "Pasted image 20240904151459.png",
-    "Pasted image 20240904151319.png",
-    "Pasted image 20240904150956.png",
-    "Pasted image 20240904150937.png",
-    "COP4600/P0/P0 Report.md",
-    "COP4600/Module 0/Module 0 Notes.md",
-    "COP4600/Module 1/Module 1.md",
+    "COP4600/Assignments/EX1",
+    "COP4600/Assignments/P0/P0 Report.md",
+    "COP4600/Notes/Module 0/Module 0 Notes.md",
+    "COP4600/Notes/Module 1/Module 1.md",
     "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
-    "COP4600/P0",
+    "COP4600/Assignments/P0",
     "CEN3031/Assignments/In Class 08.30.24.md",
     "CEN3031/In Person Activity 02.02.24.md",
     "CEN3031/Assignments",
     "CEN3031/Assignments/M2 Code of Ethics",
-    "COP4600/Module 1/Pasted image 20240829161203.png",
+    "COP4600/Notes/Module 1/Pasted image 20240829161203.png",
     "Recording 20240829145312.webm",
     "STA3032/Module 1/Module 1 Notes.md",
-    "COP4600/Module 1",
-    "COP4600/Module 0",
-    "COP4600",
-    "STA3032/Module 2"
+    "COP4600/Notes/Module 1",
+    "COP4600/Notes/Module 0",
+    "COP4600"
   ]
 }
