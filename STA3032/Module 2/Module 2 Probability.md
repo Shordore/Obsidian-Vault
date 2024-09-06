@@ -124,12 +124,23 @@ Theorem
 		$P(A) = \frac {n} {N}$
 		![[Pasted image 20240904153123.png]]
 
+
+Theorem
+	If $A \subseteq B$ then $P(A) \leq P(B)$
+	Proof
+		If $A \subseteq B$ then
+		$0 \leq P(B\cap A^\complement) = P(B) - P(B\cap S) = P(B) - P(A)$
+
+
+
 Theorem
 	If A and B are two events
 		$P(A\cup B) = P(A) + P(B) - P (A\cap B)$
 	If A and B are mutually exclusive then
 		$P(A\cup B) = P(A) + P(B)$
-	![[Pasted image 20240904153604.png]]
+	![[Pasted image 20240905000036.png]]
+	![[Pasted image 20240905000116.png]]
+
 
 Theorem
 	If A and $A^\prime$ are complementary events, then
@@ -145,5 +156,32 @@ Theorem
 
 Conditional Probability
 	A and B are events. conditional probability of B given A 
-	Denoted as $P(B|A)$ 
+	Denoted as $P(B|A)$
+	$P(B|A) = \frac {P(A\cap B)} {P(A)}$
+	![[Pasted image 20240906110244.png]]
 
+Product Rule
+	$P(A\cap B) = P(A)P(B|A)$
+	![[Pasted image 20240906110328.png]]
+
+Independent Events
+	A and B are independent iff
+		$P(B|A) = P(B)$ or $P(A|B) = P(A)$
+		provided conditional probabilities exist, otherwise they are dependen
+	Two event are independent iff
+		$P(A\cap B) = P(A)P(B)$
+	Suppose A and B are independent, then
+		(i) A and $B^\prime$ are independent
+		(ii) $A^\prime$ and B are independent
+		(iii) $A^\prime$ and $B^\prime$ are independent
+	![[Pasted image 20240906111415.png]]
+
+Mutually Independent
+	collection of events are mutually independent if
+		$P(A_{i_1}\cap ... \cap A_{i_k}) = P(A_{i_1})...P(A_{i_k})$
+
+
+
+<p style="font-size: 30px;"> Baye's Rule </p>
+Partition
+	

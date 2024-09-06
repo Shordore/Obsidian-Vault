@@ -1,3 +1,1 @@
 
-Things to install:
-man

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COP4600/Assignments/P0/P0 Report.md",
+                "file": "CEN3031/Assignments/In Class 09.06.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COP4600/Assignments/P0/P0 Report.md",
+                "file": "CEN3031/Assignments/In Class 09.06.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COP4600/Assignments/P0/P0 Report.md",
+                "file": "CEN3031/Assignments/In Class 09.06.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COP4600/Assignments/P0/P0 Report.md"
+                "file": "CEN3031/Assignments/In Class 09.06.24.md"
               }
             }
           },
@@ -155,8 +155,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f8479a5772afb123",
+  "active": "dffa6e2facfacbb2",
   "lastOpenFiles": [
+    "CEN3031/Assignments/In Person Activity 02.02.24.md",
+    "STA3032/Module 2/Module 2 Probability.md",
+    "Pasted image 20240906111415.png",
+    "Pasted image 20240906110328.png",
+    "Pasted image 20240906110244.png",
+    "COP4600/Assignments/P0/P0 Report.md",
+    "CEN3031/Assignments/In Class 09.06.24.md",
+    "Data Annotation/Untitled.md",
+    "COP4600/Assignments/EX1/Exercise 1.md",
+    "STA3032/Module 2/Pasted image 20240905000116.png",
     "COP4600/Notes",
     "COP4600/Assignments",
     "CEN3031/Assignments/Open Source Contribution/CEN3031 Open Source Approval.md",
@@ -166,28 +176,18 @@
     "STA3032/Module 2/Pasted image 20240904151319.png",
     "STA3032/Module 2/Pasted image 20240904151459.png",
     "STA3032/Module 2/Pasted image 20240904151722.png",
-    "STA3032/Module 2/Pasted image 20240904153123.png",
-    "STA3032/Module 2/Pasted image 20240904153604.png",
-    "STA3032/Module 2/Pasted image 20240904154114.png",
-    "COP4600/Assignments/EX1/Exercise 1.md",
     "CEN3031/Assignments/Open Source Contribution",
-    "CEN3031/Assignments/Untitled.md",
-    "STA3032/Module 2/Module 2 Probability.md",
     "COP4600/Assignments/EX1",
-    "COP4600/Assignments/P0/P0 Report.md",
     "COP4600/Notes/Module 0/Module 0 Notes.md",
     "COP4600/Notes/Module 1/Module 1.md",
     "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
     "COP4600/Assignments/P0",
     "CEN3031/Assignments/In Class 08.30.24.md",
-    "CEN3031/In Person Activity 02.02.24.md",
     "CEN3031/Assignments",
     "CEN3031/Assignments/M2 Code of Ethics",
-    "COP4600/Notes/Module 1/Pasted image 20240829161203.png",
     "Recording 20240829145312.webm",
     "STA3032/Module 1/Module 1 Notes.md",
     "COP4600/Notes/Module 1",
-    "COP4600/Notes/Module 0",
-    "COP4600"
+    "COP4600/Notes/Module 0"
   ]
 }
