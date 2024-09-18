@@ -44,7 +44,7 @@ I used this command to compress the directory I made in step 1 to a tar file
 I used this command to compress the tar file I made in the previous step to make it ex1.tar.gz
 
 .SH TESTING
-No testing was neccesary for this exercise.
+No testing was necessary for this exercise.
 
 .SH BUGS
 No known bugs.

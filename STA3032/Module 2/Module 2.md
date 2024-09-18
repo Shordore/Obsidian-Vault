@@ -183,5 +183,72 @@ Mutually Independent
 
 
 <p style="font-size: 30px;"> Baye's Rule </p>
-Partition
+Theorem of total probability
+	$P(A) = \sum_{i = 1}^{k} P(B_i \cap A) = \sum_{i = i}^k P(B_i)P(A|B_i)$ 
+	![[Pasted image 20240917150113.png]]
+	![[Pasted image 20240917150128.png]]
+
+Baye's Rule
+	if constitutes a partition of sample space, then for any event A in S such that P(A) $\not =$ 0
+	$P(B_j|A) = \frac {P(B_j \cap A)}{P(A)} = \frac {P(B_j)P(A|B_j)}{\sum_{i = 1}^k P(B_i)P(A|B_i)}$
+	for j = 1,2,...,k
+	![[Pasted image 20240917150547.png]]
+	![[Pasted image 20240917150604.png]]
+
+
+<p style="font-size: 30px;"> Random Variables</p>
+
+Random Variable
+	A function from S to real numbers
+	Denoted by capital letters and value it takes denoted by lowercase letters
+
+Discrete sample space
+	If S contains finite number or infinite number of elements, it is called a discrete sample space.
+
+Discrete random variable
+	Random variable X is called such if its set of possible outcomes is countable
+	![[Pasted image 20240917151904.png]]
+
+Probability mass function
+	pmf of discrete random variable X is given by
+	$f_x (x) = P(X = x)$
+	for all $x \in R$
+	function $f_x (x)$ is a pmf of discrete random variable X iff:
+		(i) $f_x (x) \geq 0$ for all $x \in R$
+		(ii) $\sum_x f_x (x) = 1$
+	![[Pasted image 20240917153235.png]]
+
+Cumulative distribution function
+	cdf is a discrete random variable X given by
+			$F(x) = P(X \leq x) = \sum_{t \leq x} f(t)$
+	![[Pasted image 20240917153410.png]]
+
+Continuous sample space
+	if S contains an infinite number of outcomes it is called continuous
+
+Continuous random variable
+	X is called continuous if its set of outcomes is infinite
+
+Probability density function
+	pdf for X if:
+		$P(a \leq X \leq b) = \int_{a}^{b} f_x (x)dx$
+		for all R $a \leq b$
+	A function is a pdf iff
+		(i)$f_x (x) \geq 0$ for all $x \in R$
+		(ii)$\int_{-\infty}^\infty f_x (x) dx = 1$
+
+Cumulative distribution function
+	$F(x) = P(X \leq x) = \int_{-\infty}^x f_x (t)dt$
+	for all $x \in R$
+	![[Pasted image 20240917185343.png]]
+
+
+<p style = "font-size: 30px;"> Joint Probability Distributions</p>
+
+Joint pmf
+	function is a joint pmf of X and Y if
+	$P(X = x, Y = y) = f_x,y (x,y)$
+	for all $x,y \in R$
+
+Joint pdf
 	
