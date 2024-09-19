@@ -43,9 +43,11 @@
             "id": "0446813e191cb807",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "STA3032/Module 2/Pasted image 20240905000116.png"
+                "file": "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STA3032/Module 2/Pasted image 20240905000116.png",
+                "file": "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STA3032/Module 2/Pasted image 20240905000116.png",
+                "file": "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STA3032/Module 2/Pasted image 20240905000116.png"
+                "file": "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md"
               }
             }
           },
@@ -200,17 +202,19 @@
   },
   "active": "0446813e191cb807",
   "lastOpenFiles": [
+    "CEN3031/Assignments/Open Source Contribution/CEN3031 Open Source Approval.md",
+    "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
+    "STA3032/Module 2/Module 2.md",
+    "STA3032/Module 2/Pasted image 20240905000116.png",
     "STA3032/Module 2/Pasted image 20240917185343.png",
     "STA3032/Module 2/Pasted image 20240906110244.png",
     "STA3032/Module 2/Pasted image 20240917153410.png",
-    "STA3032/Module 2/Module 2.md",
     "STA3032/Module 2/Pasted image 20240917153235.png",
     "STA3032/Module 2/Pasted image 20240917151904.png",
     "STA3032/Module 2/Pasted image 20240917150604.png",
     "STA3032/Module 2/Pasted image 20240917150547.png",
     "STA3032/Module 2/Pasted image 20240917150128.png",
     "STA3032/Module 2/Pasted image 20240917150113.png",
-    "STA3032/Module 2/Pasted image 20240906111415.png",
     "COP4600/Assignments/P0/P0 Man Page.md",
     "COP4600/Assignments/EX1/Exercise 1 Man Page.md",
     "COP4600/Notes/Module 1/Module 1.md",
@@ -219,7 +223,6 @@
     "Data Annotation/Untitled.md",
     "COP4600/Notes",
     "COP4600/Assignments",
-    "CEN3031/Assignments/Open Source Contribution/CEN3031 Open Source Approval.md",
     "CEN3031/Assignments/Open Source Contribution",
     "COP4600/Assignments/EX1",
     "COP4600/Notes/Module 0/Module 0 Notes.md",
