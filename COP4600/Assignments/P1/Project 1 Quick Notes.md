@@ -11,12 +11,15 @@ go here and add the int newloglevel = 0;
 Also add all the syscalls needed.
 make sure only root is allowed to set level
 create syscall for invalid log levels (less than 0, greater than 7)
+Switch case with log levels to print out message and PID.
+process_log needs to have both header and c files finished
 
 Checklist
--[] Add 434-437 syscalls
--[] Add log level variable
--[] Add root check syscall
--[] Add invalid log level check
--[] Add all 7 log levels according to spec
+-[x] Add 434-437 syscalls
+-[x] Add get_proc_log_level definition
+-[x] Add set_proc_log_level definition
+-[] Add proc_log_call definition
+-[] Add all 7 log levels according to spec in proc_log_call
+-[] finish process_log functions
 
 
