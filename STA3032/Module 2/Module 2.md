@@ -251,4 +251,4 @@ Joint pmf
 	for all $x,y \in R$
 
 Joint pdf
-	
+	$P[(X,Y) \in A] = \int \int_A f_{X,Y} (x,y) dx dy$ 

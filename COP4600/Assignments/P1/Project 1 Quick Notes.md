@@ -18,8 +18,9 @@ Checklist
 -[x] Add 434-437 syscalls
 -[x] Add get_proc_log_level definition
 -[x] Add set_proc_log_level definition
--[] Add proc_log_call definition
--[] Add all 7 log levels according to spec in proc_log_call
--[] finish process_log functions
+-[x] Add proc_log_call definition
+-[x] Add all 7 log levels according to spec in proc_log_call
+-[x] finish process_log functions
+-[] create Makefile
 
 
