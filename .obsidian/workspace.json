@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEN3031/Assignments/Presentation/Module 6 Script.md",
+                "file": "COP4600/Assignments/P1/P1 Man Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8427b6cfe55fe55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COP4600/Assignments/P0/P0 Man Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEN3031/Assignments/Presentation/Module 6 Script.md",
+                "file": "COP4600/Assignments/P1/P1 Man Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEN3031/Assignments/Presentation/Module 6 Script.md",
+                "file": "COP4600/Assignments/P1/P1 Man Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEN3031/Assignments/Presentation/Module 6 Script.md"
+                "file": "COP4600/Assignments/P1/P1 Man Page.md"
               }
             }
           },
@@ -157,12 +169,14 @@
   },
   "active": "0446813e191cb807",
   "lastOpenFiles": [
-    "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
+    "COP4600/Assignments/P0/P0 Man Page.md",
+    "COP4600/Assignments/P1/P1 Man Page.md",
+    "COP4600/Assignments/P1/Project 1 Quick Notes.md",
     "CEN3031/Assignments/Presentation/Module 6 Script.md",
+    "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
     "CEN3031/Assignments/Presentation",
     "CEN3031/Assignments/Open Source Contribution/CEN3031 Open Source Approval.md",
     "STA3032/Module 1/Module 1 Notes.md",
-    "COP4600/Assignments/P1/Project 1 Quick Notes.md",
     "CEN3031/Assignments/M2 Code of Ethics/Code of Ethics Case Study.md",
     "STA3032/Module 2/Module 2.md",
     "COP4600/Assignments/P1",
@@ -177,7 +191,6 @@
     "STA3032/Module 2/Pasted image 20240917150547.png",
     "STA3032/Module 2/Pasted image 20240917150128.png",
     "STA3032/Module 2/Pasted image 20240917150113.png",
-    "COP4600/Assignments/P0/P0 Man Page.md",
     "COP4600/Notes/Module 1/Module 1.md",
     "CEN3031/Assignments/In Class 09.06.24.md",
     "CEN3031/Assignments/In Person Activity 02.02.24.md",

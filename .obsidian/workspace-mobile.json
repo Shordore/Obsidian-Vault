@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STA3032/Module 2/Module 2 Probability.md",
+                "file": "CEN3031/Assignments/Presentation/Module 6 Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "STA3032/Module 2/Module 2 Probability.md",
+            "file": "CEN3031/Assignments/Presentation/Module 6 Script.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "STA3032/Module 2/Module 2 Probability.md",
+            "file": "CEN3031/Assignments/Presentation/Module 6 Script.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "STA3032/Module 2/Module 2 Probability.md"
+            "file": "CEN3031/Assignments/Presentation/Module 6 Script.md"
           }
         }
       }
@@ -134,6 +134,7 @@
   },
   "active": "46b7af3e4a3eb98b",
   "lastOpenFiles": [
+    "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
     "Pasted image 20240905000116.png",
     "Pasted image 20240905000036.png",
     "STA3032/Module 2/Pasted image 20240904153604.png",
@@ -150,7 +151,6 @@
     "CEN3031/Assignments/In Class 08.30.24.md",
     "CEN3031/Assignments",
     "STA3032/Module 2/Pasted image 20240827194512.png",
-    "STA3032/Module 2/Pasted image 20240827195608.png",
     "COP4600/Module 1/Module 1.md",
     "COP4600/Module 0/Module 0 Notes.md",
     "COP4600/Module 1",
