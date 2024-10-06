@@ -53,8 +53,11 @@ https://youtu.be/q4XT8293zIo
 
 .SH CITATIONS
 Rohan, and Ernesto.
+.PP
 https://manpages.debian.org/testing/linux-manual-4.8/__copy_from_user.9.en.html
+.PP
 https://stackoverflow.com/questions/10838342/how-does-current-pid-work-for-linux
+.PP
 https://stackoverflow.com/questions/22346545/current-in-linux-kernel-code
 .SH Author
 Shahyah Darioosh
