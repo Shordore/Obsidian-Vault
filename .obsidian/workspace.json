@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COP4600/Assignments/P1/P1 Man Page.md",
+                "file": "COP4600/Notes/Module 2/Module 2 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COP4600/Assignments/P1/P1 Man Page.md",
+                "file": "COP4600/Notes/Module 2/Module 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COP4600/Assignments/P1/P1 Man Page.md",
+                "file": "COP4600/Notes/Module 2/Module 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COP4600/Assignments/P1/P1 Man Page.md"
+                "file": "COP4600/Notes/Module 2/Module 2 Notes.md"
               }
             }
           },
@@ -169,8 +169,17 @@
   },
   "active": "0446813e191cb807",
   "lastOpenFiles": [
-    "COP4600/Assignments/P0/P0 Man Page.md",
+    "COP4600/Notes/Module 5/Module 5 Notes.md",
+    "COP4600/Notes/Module 4/Module 4 Notes.md",
+    "COP4600/Notes/Module 3/Module 3 Notes.md",
+    "COP4600/Notes/Module 2/Module 2 Notes.md",
+    "COP4600/Notes/Module 1/Module 1.md",
+    "COP4600/Notes/Module 5",
+    "COP4600/Notes/Module 4",
+    "COP4600/Notes/Module 3",
+    "COP4600/Notes/Module 2",
     "COP4600/Assignments/P1/P1 Man Page.md",
+    "COP4600/Assignments/P0/P0 Man Page.md",
     "COP4600/Assignments/P1/Project 1 Quick Notes.md",
     "CEN3031/Assignments/Presentation/Module 6 Script.md",
     "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
@@ -191,7 +200,6 @@
     "STA3032/Module 2/Pasted image 20240917150547.png",
     "STA3032/Module 2/Pasted image 20240917150128.png",
     "STA3032/Module 2/Pasted image 20240917150113.png",
-    "COP4600/Notes/Module 1/Module 1.md",
     "CEN3031/Assignments/In Class 09.06.24.md",
     "CEN3031/Assignments/In Person Activity 02.02.24.md",
     "Data Annotation/Untitled.md",
@@ -200,10 +208,6 @@
     "CEN3031/Assignments/Open Source Contribution",
     "COP4600/Assignments/EX1",
     "COP4600/Notes/Module 0/Module 0 Notes.md",
-    "COP4600/Assignments/P0",
-    "CEN3031/Assignments/In Class 08.30.24.md",
-    "CEN3031/Assignments",
-    "CEN3031/Assignments/M2 Code of Ethics",
-    "Recording 20240829145312.webm"
+    "CEN3031/Assignments/In Class 08.30.24.md"
   ]
 }
