@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COP4600/Notes/Module 2/Module 2 Notes.md",
+                "file": "COP4600/Assignments/P2/Project 2 ManPage.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Project 2 ManPage"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,10 +68,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COP4600/Notes/Module 2/Module 2 Notes.md",
+                "file": "CEN3031/ClubSwamp/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COP4600/Notes/Module 2/Module 2 Notes.md",
+                "file": "CEN3031/ClubSwamp/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COP4600/Notes/Module 2/Module 2 Notes.md"
-              }
+                "file": "CEN3031/ClubSwamp/Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
             }
           },
           {
@@ -134,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ]
@@ -155,17 +174,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0446813e191cb807",
+  "active": "219dfd5a2ffa4c30",
   "lastOpenFiles": [
+    "CEN3031/Assignments/Presentation/Sprint 1 Presentation Script.md",
+    "COP4600/Assignments/P2/Project 2 ManPage.md",
+    "COP4600/Assignments/P2",
+    "CEN3031/ClubSwamp/Notes.md",
+    "CEN3031/Assignments/In class.md",
+    "CEN3031/Assignments/Module 8 Personal Contribution 1.md",
+    "Untitled.md",
+    "COP4600/Notes/Module 1/Module 1.md",
+    "COP4600/Notes/Module 5/Module 5 Notes.md",
+    "COP4600/Notes/Module 3/Module 3 Notes.md",
+    "COP4600/Notes/Module 4/Module 4 Notes.md",
+    "COP4600/Notes/Module 2/Module 2 Notes.md",
+    "CEN3031/ClubSwamp/README.md",
+    "CEN3031/ClubSwamp",
     "Pasted image 20241010222145.png",
     "COP4600/Notes/Module 2/Pasted image 20241010221610.png",
     "COP4600/Notes/Module 2/Pasted image 20241010221207.png",
     "COP4600/Notes/Module 2/Pasted image 20241010220303.png",
-    "COP4600/Notes/Module 5/Module 5 Notes.md",
-    "COP4600/Notes/Module 4/Module 4 Notes.md",
-    "COP4600/Notes/Module 3/Module 3 Notes.md",
-    "COP4600/Notes/Module 2/Module 2 Notes.md",
-    "COP4600/Notes/Module 1/Module 1.md",
     "COP4600/Notes/Module 5",
     "COP4600/Notes/Module 4",
     "COP4600/Notes/Module 3",
@@ -188,15 +216,11 @@
     "STA3032/Module 2/Pasted image 20240917153410.png",
     "STA3032/Module 2/Pasted image 20240917153235.png",
     "STA3032/Module 2/Pasted image 20240917151904.png",
-    "STA3032/Module 2/Pasted image 20240917150604.png",
     "CEN3031/Assignments/In Class 09.06.24.md",
     "CEN3031/Assignments/In Person Activity 02.02.24.md",
     "Data Annotation/Untitled.md",
     "COP4600/Notes",
     "COP4600/Assignments",
-    "CEN3031/Assignments/Open Source Contribution",
-    "COP4600/Assignments/EX1",
-    "COP4600/Notes/Module 0/Module 0 Notes.md",
-    "CEN3031/Assignments/In Class 08.30.24.md"
+    "COP4600/Notes/Module 0/Module 0 Notes.md"
   ]
 }
