@@ -28,17 +28,17 @@ This is the static library archive created after compiling the MemoryManager cod
 .PP
 The MemoryManager tracks free memory regions (holes) and allocated regions using several data structures:
 .PP
-.B std::map<unsigned int, Block> holes;
+.B std::map<unsigned int, Hole> holes;
 .PP
-This map keeps track of all the free memory regions. The key is the starting word offset, and the value is a Block struct containing the start and length of the hole.
+This map keeps track of all the free memory regions. The key is the starting word offset, and the value is a Hole struct containing the start and length of the hole.
 .PP
-.B std::map<unsigned int, Block> tenants;
+.B std::map<unsigned int, Hole> tenants;
 .PP
-This map tracks all the allocated memory regions. Similar to holes, the key is the starting word offset, and the value is a Block struct representing the allocated block.
+This map tracks all the allocated memory regions. Similar to holes, the key is the starting word offset, and the value is a Hole struct representing the allocated block.
 .PP
-.B std::map<void*, Block> tenantAddresses;
+.B std::map<void*, Hole> tenantAddresses;
 .PP
-This map associates allocated memory addresses with their corresponding Block information, allowing for efficient deallocation.
+This map associates allocated memory addresses with their corresponding Hole information, allowing for efficient deallocation.
 .PP
 
 .IP "3."
@@ -127,8 +127,12 @@ Rohan's P2 discussion video.
 .PP
 https://www.geeksforgeeks.org/pointers-vs-references-cpp/
 .PP
-
-
+https://www.cs.rit.edu/~ark/lectures/gc/03_00_00.html
+.PP
+https://www.ibm.com/developerworks/library/pa-dalign/index.html
+.PP
+https://en.cppreference.com/w/cpp/utility/functional/function
+.PP
 
 .SH AUTHOR
 Shahyah Darioosh
