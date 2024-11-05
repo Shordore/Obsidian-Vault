@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COP4600/Assignments/P2/Project 2 ManPage.md",
+                "file": "CEN3031/Assignments/Individual Contribution Report 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project 2 ManPage"
+              "title": "Individual Contribution Report 2"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,8 +175,9 @@
   },
   "active": "0446813e191cb807",
   "lastOpenFiles": [
-    "CEN3031/Assignments/Presentation/Sprint 1 Presentation Script.md",
     "COP4600/Assignments/P2/Project 2 ManPage.md",
+    "CEN3031/Assignments/Individual Contribution Report 2.md",
+    "CEN3031/Assignments/Presentation/Sprint 1 Presentation Script.md",
     "COP4600/Assignments/P2",
     "CEN3031/ClubSwamp/Notes.md",
     "CEN3031/Assignments/In class.md",
@@ -220,7 +220,6 @@
     "CEN3031/Assignments/In Person Activity 02.02.24.md",
     "Data Annotation/Untitled.md",
     "COP4600/Notes",
-    "COP4600/Assignments",
-    "COP4600/Notes/Module 0/Module 0 Notes.md"
+    "COP4600/Assignments"
   ]
 }

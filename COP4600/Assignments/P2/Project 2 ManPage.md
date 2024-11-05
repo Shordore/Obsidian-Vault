@@ -1,9 +1,8 @@
-
 .TH Project 2 "1" "11/01/24"
 .SH NAME
 COP4600 Project 2: Memory Management & Layering
 .SH SYNOPSIS
-The goal of this project is to teach students how to implement a custom memory management system, simulating dynamic memory allocation and deallocation with specific allocation strategies.
+The goal of this project is to teach students how to implement a custom memory management system.
 
 .SH DESCRIPTION
 .PP
@@ -12,114 +11,136 @@ The goal of this project is to teach students how to implement a custom memory m
 .PP
 .B /MemoryManager/MemoryManager.h
 .PP
-This is the header file containing the class declarations for the MemoryManager library.
+Header file with class declarations for the MemoryManager library.
 .PP
 .B /MemoryManager/MemoryManager.cpp
 .PP
-This is the implementation file where all the function definitions reside.
+Implementation file with function definitions.
 .PP
 .B /MemoryManager/libMemoryManager.a
 .PP
-This is the static library archive created after compiling the MemoryManager code.
+Static library archive created after compilation.
 .PP
 
 .IP "2."
 .B Tracking Holes and Allocated Regions
 .PP
-The MemoryManager tracks free memory regions (holes) and allocated regions using several data structures:
+The MemoryManager tracks memory regions using several data structures:
 .PP
 .B std::map<unsigned int, Hole> holes;
 .PP
-This map keeps track of all the free memory regions. The key is the starting word offset, and the value is a Hole struct containing the start and length of the hole.
+Tracks free memory regions.
 .PP
 .B std::map<unsigned int, Hole> tenants;
 .PP
-This map tracks all the allocated memory regions. Similar to holes, the key is the starting word offset, and the value is a Hole struct representing the allocated block.
+Tracks allocated regions using start offsets.
 .PP
 .B std::map<void*, Hole> tenantAddresses;
 .PP
-This map associates allocated memory addresses with their corresponding Hole information, allowing for efficient deallocation.
+Associates allocated memory addresses with corresponding Hole information.
 .PP
 
 .IP "3."
 .B Allocation Functions
 .PP
-The MemoryManager provides the following key allocation functions:
-.PP
 .B void* allocate(size_t sizeInBytes);
 .PP
-Allocates a block of memory of the specified size in bytes. It uses the selected allocation strategy (best-fit or worst-fit) to find a suitable hole.
+Allocates a block of the specified size, using the allocation strategy to find a suitable hole.
 .PP
 .B void free(void* address);
 .PP
-Frees the memory block at the given address, returning it to the pool of available memory and merging adjacent holes if necessary.
+Frees the block at the given address, making it able to be reused.
 .PP
 .B int bestFit(int sizeInWords, void* list);
 .PP
-An allocator function that selects the smallest hole that can accommodate the requested size.
+Finds the smallest hole that fits the requested size.
 .PP
 .B int worstFit(int sizeInWords, void* list);
 .PP
-An allocator function that selects the largest available hole.
+Finds the largest available hole.
 .PP
 
 .IP "4."
 .B Other Required Functions
 .PP
-Additional functions as specified in the project requirements include:
+Additional functions as specified in the project include:
+.PP
+.B MemoryManager(unsigned int wordSize, std::function<int(int, void*)> allocator)
+.PP
+Constructor that initializes the MemoryManager, setting word size and allocator function.
+.PP
+.B ~MemoryManager()
+.PP
+Destructor that releases all allocated memory to prevent leaks.
 .PP
 .B void initialize(size_t sizeInWords);
 .PP
-Initializes the memory manager with a specified number of words, setting up the initial free memory region.
+Sets up the memory manager with a specified number of words.
 .PP
 .B void shutdown();
 .PP
-Cleans up the memory manager, freeing all allocated memory and resetting internal structures.
+Releases allocated memory and resets internal structures.
+.PP
+.B void setAllocator(std::function<int(int, void*)> allocator);
+.PP
+Changes the allocator function for different allocation strategies.
+.PP
+.B unsigned int getWordSize();
+.PP
+Returns the word size used for alignment.
+.PP
+.B void* getMemoryStart();
+.PP
+Returns the starting address of the memory block.
+.PP
+.B unsigned int getMemoryLimit();
+.PP
+Returns the byte limit of the current memory block.
 .PP
 .B void* getBitmap();
 .PP
-Returns a bitmap representing the allocation status of memory regions, useful for visualizing memory usage.
+Returns a bitmap representing the allocation status of regions.
 .PP
 .B void* getList();
 .PP
-Returns a list of current holes in memory, including their starting offsets and lengths.
+Returns a list of holes in memory, including offsets and lengths.
 .PP
 .B int dumpMemoryMap(char* filename);
 .PP
-Dumps the current memory map to a specified file using POSIX system calls.
+Dumps the current memory map to a file using POSIX calls.
 .PP
 
 .IP "5."
 .B POSIX Calls in dumpMemoryMap
 .PP
-The \fBdumpMemoryMap\fP function utilizes POSIX system calls to interact with the filesystem:
+The \fBdumpMemoryMap\fP function uses the following POSIX system calls:
 .PP
 .B open()
 .PP
-Opens or creates the specified file with appropriate permissions.
+Opens or creates the specified file.
 .PP
 .B write()
 .PP
-Writes the formatted memory map data to the file.
+Writes memory map data to the file.
 .PP
 .B close()
 .PP
-Closes the file descriptor after writing is complete.
+Closes the file descriptor.
 .PP
 
 .SH TESTING
 .PP
-I tested the MemoryManager library using \fBCommandLineTest.cpp\fP.
+I used the provided \fBCommandLineTest.cpp\fP file to run a test of the program,
+and used valgrind to ensure there was no memory leaks in the program.
 .PP
-Memory leaks and errors were debugged using \fBvalgrind\fP. By running the test program under valgrind, I was able to identify and fix memory leaks and invalid memory accesses. All allocated memory was properly freed, and the program was verified to be free of segmentation faults and other runtime errors.
-.PP
+
 
 .SH BUGS
 .PP
-There are no known bugs at this time. All functions have been tested and verified to work as expected.
+No known bugs. All functions seem to perform as intended.
 
 .SH LINK
-Add Link here
+https://youtu.be/7SVoeK7IhVc
 
 .SH CITATIONS
 .PP
