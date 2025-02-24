@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIS4301/Sp25/Exam Review/Exam 1 Review.md",
+                "file": "CIS4301/Sp25/Exam Review/Exam 1 Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam 1 Review"
+              "title": "Exam 1 Cheat Sheet"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "9a945a1d0e951eb1",
   "lastOpenFiles": [
-    "CIS4301/Sp25/hw3.md",
     "CIS4301/Sp25/Exam Review/Exam 1 Review.md",
+    "CIS4301/Sp25/Exam Review/Exam 1 Cheat Sheet.md",
+    "CIS4914/Untitled.md",
+    "CIS4301/Sp25/hw3.md",
     "CIS4301/Sp25/Powerpoint Summaries/Relational Algebra Sets.md",
     "CIS4301/Sp25/Exam Review",
     "CIS4301/Sp25/Powerpoint Summaries/SQL 1.md",
@@ -219,8 +221,6 @@
     "COP4600/Assignments/P3/P3 Man Page.md",
     "COP4600/Notes/Module 5/Module 5 Notes.md",
     "CEN3031/Final Presentation script.md",
-    "CEN3031/Assignments/Open Source Contribution/Open Source Contribution.md",
-    "CEN3031/Assignments/Open Source Contribution/CEN3031 Open Source Approval.md",
     "COP4600/Assignments/P3",
     "COP4600/Assignments/P2"
   ]
