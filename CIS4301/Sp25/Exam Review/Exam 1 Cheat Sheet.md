@@ -219,6 +219,9 @@ SELECT name, Salary * 1.10 AS NewSalary FROM Employee;
 • Filters rows based on a condition.
 
 • Example:
+  
+
+
 
 1. **Projection (π)**:
 
@@ -722,3 +725,5 @@ For query “find bar names that are either on Maple St. or sell Bud for less th
 1. **Revisit Homework and Practice Questions**: They often mirror exam questions and help solidify your understanding.
 
 Keep this cheat sheet handy as you review, and good luck on your exam!
+
+
