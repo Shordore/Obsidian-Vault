@@ -1,8 +1,4 @@
 
-Below is an in‐depth summary and breakdown of the key concepts from Lecture 2 (“Fundamental Concepts”) as presented in the “CIS4360_2_Foundamental Concepts.pdf” document. This lecture establishes the foundation for understanding computer and information security by defining core ideas, the nature of attackers, and how we reason about security.
-
----
-
 **1. Cyber Systems and Their Components**
 
 • **Definition of a Cyber System:**
