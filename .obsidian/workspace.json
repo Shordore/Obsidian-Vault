@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85843a7f83a87a75",
+        "id": "d2546fd4ee267ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d1ec7057f5f794",
+            "id": "e5ffc81accefcec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,9 +174,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b2d1ec7057f5f794",
+  "active": "e5ffc81accefcec1",
   "lastOpenFiles": [
     "CIS4301/Sp25/HW4.md",
+    "README.md",
     "CIS4301/Sp25/Exam Review/Exam 1 Cheat Sheet.md",
     "CIS4360/Chapter Summaries/Chapter 9.md",
     "CIS4360/Chapter Summaries/Chapter 8.md",
@@ -203,7 +204,6 @@
     "CIS4360/Lecture Summaries",
     "CIS4360/untitled folder/Lecture 15.md",
     "CIS4360/untitled folder/Lecture 14.md",
-    "CIS4360/untitled folder/Lecture 13.md",
     "CIS4360/untitled folder",
     "CIS4360/Lecture Summaries.zip",
     "Pasted image 20250218150325.png",
