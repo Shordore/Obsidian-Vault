@@ -102,10 +102,10 @@ SQL Queries:
 
 6. `SELECT TravelAgent.name FROM TravelAgent WHERE years_experience < ALL (SELECT years_experience FROM TravelAgent WHERE years_experience > 10);`
 
-7. NOT DONE `SELECT Trip.* FROM Trip, GoesOn, Owns, Passport WHERE Trip.trip_id = GoesOn.id AND GoesOn.ssn = Owns.ssn AND Owns.passportNum = Passport.passportNum AND Trip.end_date > Passport.expDate;`
+7. `SELECT Trip.* FROM Trip JOIN GoesOn ON Trip.trip_id = GoesOn.id JOIN Owns ON GoesOn.ssn = Owns.ssn JOIN Passport ON Owns.passportNum = Passport.passportNum WHERE Trip.end_date > Passport.expDate;`
 
 8. `SELECT TravelAgent.name, COUNT(Booking.trip_id) FROM TravelAgent JOIN Booking ON TravelAgent.name = Booking.agent GROUP BY TravelAgent.name HAVING COUNT(Booking.trip_id) > 1;`
 
-9. `SELECT * FROM Traveler LEFT JOIN GoesOn ON Traveler.ssn = GoesOn.ssn WHERE GoesOn.ssn IS NULL;`
+9. `SELECT name, Traveler.ssn, dob FROM Traveler LEFT JOIN GoesOn ON Traveler.ssn = GoesOn.ssn WHERE GoesOn.ssn IS NULL;`
 
 10. `SELECT Trip.* FROM Trip JOIN Booking ON Trip.trip_id = Booking.trip_id JOIN TravelAgent ON Booking.agent = TravelAgent.name WHERE TravelAgent.years_experience < 5;`

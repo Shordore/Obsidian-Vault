@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIS4301/Sp25/HW4.md",
+                "file": "CIS4301/Sp25/Powerpoint Summaries/Relational Algebra Bags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW4"
+              "title": "Relational Algebra Bags"
             }
           }
         ]
@@ -176,6 +176,19 @@
   },
   "active": "e5ffc81accefcec1",
   "lastOpenFiles": [
+    "CIS4301/Sp25/Powerpoint Summaries/Relational Algebra 2.md",
+    "CIS4301/Sp25/Powerpoint Summaries/Relational Algebra Bags.md",
+    "CIS4301/Sp25/Powerpoint Summaries/Relational Algebra Sets.md",
+    "CIS4301/Sp25/Powerpoint Summaries/Normal Form 2.md",
+    "CIS4301/Sp25/Powerpoint Summaries/Normal Form 1.md",
+    "CIS4301/Sp25/Powerpoint Summaries/SQL 3.md",
+    "CIS4301/Sp25/Powerpoint Summaries/SQL 2.md",
+    "CIS4301/Sp25/Powerpoint Summaries/Normal Form 3.md",
+    "CIS4301/Sp25/Powerpoint Summaries/Functional Dependencies.md",
+    "CIS4301/Sp25/Powerpoint Summaries/Untitled",
+    "CIS4301/Sp25/Powerpoint Summaries/SQL 1.md",
+    "CIS4301/Sp25/Lecture Summaries/Lecture 3.md",
+    "CIS4301/Sp25/Lecture Summaries/Lecture 2.md",
     "CIS4301/Sp25/HW4.md",
     "README.md",
     "CIS4301/Sp25/Exam Review/Exam 1 Cheat Sheet.md",
@@ -191,19 +204,7 @@
     "CIS4360/Lecture Summaries/Lecture 11.md",
     "CIS4360/Lecture Summaries/Lecture 10.md",
     "CIS4360/Lecture Summaries/Lecture 9.md",
-    "CIS4360/Lecture Summaries/Lecture 8.md",
-    "CIS4360/Lecture Summaries/Lecture 7.md",
-    "CIS4360/Lecture Summaries/Lecture 6.md",
-    "CIS4360/Lecture Summaries/Lecture 5.md",
-    "CIS4360/Lecture Summaries/Lecture 15.md",
-    "CIS4360/Lecture Summaries/Lecture 14.md",
-    "Module 1.md",
-    "CIS4360/Lecture Summaries/Lecture 4.md",
-    "CIS4360/Lecture Summaries/Lecture 3.md",
-    "CIS4360/Lecture Summaries/Lecture 2.md",
     "CIS4360/Lecture Summaries",
-    "CIS4360/untitled folder/Lecture 15.md",
-    "CIS4360/untitled folder/Lecture 14.md",
     "CIS4360/untitled folder",
     "CIS4360/Lecture Summaries.zip",
     "Pasted image 20250218150325.png",
@@ -221,7 +222,6 @@
     "Untitled.canvas",
     "CIS4301/Sp25/Powerpoint Summaries",
     "CIS4301/Sp25/Lecture Summaries",
-    "CIS4914/Meeting Notes",
-    "CIS4914"
+    "CIS4914/Meeting Notes"
   ]
 }
