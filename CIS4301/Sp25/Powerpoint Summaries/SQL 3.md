@@ -8,33 +8,7 @@ Below is a comprehensive summary of the “SQL 3” presentation by Mohammad Al�
 
 The presentation is divided into two main parts:
 
-  
 
-**1. Exam Statistics**
-
-• **Summary Data:**
-
-• **Mean (Average):** 86.5
-
-• **Maximum Score:** 105
-
-• **Median:** 89
-
-• **Standard Deviation:** 18.2
-
-• **Score Distribution:**
-
-• 151 students scored between 80 and 90.
-
-• 205 students scored between 91 and 100.
-
-• 103 students scored between 101 and 105.
-
-• **Skewness:**
-
-• There is a slight left skew, indicating many high scores.
-
-  
 
 **2. Database Modifications in SQL**
 
