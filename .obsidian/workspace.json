@@ -11,17 +11,52 @@
             "id": "e5ffc81accefcec1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CIS4301/Sp25/HW6.md",
-                "mode": "source",
-                "source": false
+                "file": "Photo Dump/image.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "HW6"
+              "icon": "lucide-image",
+              "title": "image"
+            }
+          },
+          {
+            "id": "fe3d7a120c884104",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Photo Dump/Pasted image 20250415150251.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250415150251"
+            }
+          },
+          {
+            "id": "47b7a41aa0c9a84e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Photo Dump/image.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "image"
+            }
+          },
+          {
+            "id": "1a2ae6a932e5fd66",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Photo Dump/image.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "image"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a3ebac445d94aa5e",
@@ -175,21 +209,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e5ffc81accefcec1",
+  "active": "f8479a5772afb123",
   "lastOpenFiles": [
-    "Pasted image 20250415150251.png",
-    "Pasted image 20250415150218.png",
-    "Pasted image 20250415150208.png",
-    "Pasted image 20250415145928.png",
-    "Pasted image 20250415145813.png",
-    "Pasted image 20250415145614.png",
-    "Pasted image 20250415145528.png",
-    "Pasted image 20250415145409.png",
-    "Pasted image 20250415145304.png",
-    "Pasted image 20250415145238.png",
-    "Pasted image 20250415144507.png",
-    "CIS4301/Sp25/HW5.md",
+    "Photo Dump/image.jpeg",
+    "Module 1.md",
+    "Photo Dump/Insert&Success.png",
+    "Photo Dump/Pasted image 20250218150325.png",
+    "Photo Dump/Pasted image 20250415150251.png",
+    "Photo Dump",
+    "README.md",
     "CIS4301/Sp25/HW6.md",
+    "Photo Dump/Pasted image 20250415150218.png",
+    "Photo Dump/Pasted image 20250415150208.png",
+    "Photo Dump/Pasted image 20250415145928.png",
+    "Photo Dump/Pasted image 20250415145813.png",
+    "Photo Dump/Pasted image 20250415145614.png",
+    "Photo Dump/Pasted image 20250415145528.png",
+    "CIS4301/Sp25/HW5.md",
     "CIS4301/Sp25/HW4.md",
     "CIS4301/Sp25/Exam 2 Practice.md",
     "CIS4301/Sp25/Powerpoint Summaries/SQL 2.md",
@@ -209,11 +245,9 @@
     "CIS4301/Sp25/Powerpoint Summaries/Untitled",
     "CIS4301/Sp25/Lecture Summaries/Lecture 3.md",
     "CIS4301/Sp25/Lecture Summaries/Lecture 2.md",
-    "README.md",
     "CIS4301/Sp25/Exam Review/Exam 1 Cheat Sheet.md",
     "CIS4360/Chapter Summaries/Chapter 9.md",
     "CIS4360/Chapter Summaries/Chapter 8.md",
-    "CIS4360/Chapter Summaries/Chapter 4.3.md",
     "CIS4360/Chapter Summaries",
     "CIS4360/Lecture Summaries",
     "CIS4360/untitled folder",
@@ -222,7 +256,6 @@
     "CIS4301/Sp25/Exam Review",
     "Untitled.canvas",
     "CIS4301/Sp25/Powerpoint Summaries",
-    "CIS4301/Sp25/Lecture Summaries",
-    "CIS4914/Meeting Notes"
+    "CIS4301/Sp25/Lecture Summaries"
   ]
 }
