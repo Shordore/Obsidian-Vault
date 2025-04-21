@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d2546fd4ee267ea4",
+        "id": "d66daf1b2fa982ca",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ffc81accefcec1",
+            "id": "c3c569b0f5ac3ef7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Photo Dump/image.jpeg"
+                "file": "Personal Project/Project Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "image"
-            }
-          },
-          {
-            "id": "fe3d7a120c884104",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Photo Dump/Pasted image 20250415150251.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250415150251"
-            }
-          },
-          {
-            "id": "47b7a41aa0c9a84e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Photo Dump/image.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "image"
-            }
-          },
-          {
-            "id": "1a2ae6a932e5fd66",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Photo Dump/image.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "image"
+              "icon": "lucide-file",
+              "title": "Project Ideas"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,22 +174,31 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f8479a5772afb123",
+  "active": "c3c569b0f5ac3ef7",
   "lastOpenFiles": [
-    "Photo Dump/image.jpeg",
-    "Module 1.md",
-    "Photo Dump/Insert&Success.png",
-    "Photo Dump/Pasted image 20250218150325.png",
-    "Photo Dump/Pasted image 20250415150251.png",
-    "Photo Dump",
     "README.md",
+    "Module 1.md",
+    "ROM Command.md",
+    "CIS4914/Script.md",
+    "Personal Project/Project Ideas.md",
+    "Photo Dump/Pasted image 20250417215059.png",
+    "Photo Dump/Pasted image 20250417215117.png",
+    "CIS4301/Sp25/Exam 3 Practice.md",
+    "Personal Project",
+    "CIS4301/Sp25/HW7.md",
+    "Photo Dump/Pasted image 20250417215637.png",
+    "Photo Dump/Pasted image 20250417215615.png",
+    "Photo Dump/Pasted image 20250417215556.png",
+    "Photo Dump/Pasted image 20250417215542.png",
+    "Photo Dump/Pasted image 20250417215207.png",
+    "Photo Dump/Pasted image 20250417215149.png",
+    "Photo Dump/Pasted image 20250417215133.png",
     "CIS4301/Sp25/HW6.md",
-    "Photo Dump/Pasted image 20250415150218.png",
-    "Photo Dump/Pasted image 20250415150208.png",
-    "Photo Dump/Pasted image 20250415145928.png",
-    "Photo Dump/Pasted image 20250415145813.png",
-    "Photo Dump/Pasted image 20250415145614.png",
-    "Photo Dump/Pasted image 20250415145528.png",
+    "CIS4360/Exam 1 Review Sheet.md",
+    "CIS4360/Untitled.md",
+    "Report template Part 3.md",
+    "Photo Dump/image.jpeg",
+    "Photo Dump",
     "CIS4301/Sp25/HW5.md",
     "CIS4301/Sp25/HW4.md",
     "CIS4301/Sp25/Exam 2 Practice.md",
@@ -240,14 +214,7 @@
     "CIS4301/Sp25/Powerpoint Summaries/Functional Dependencies.md",
     "CIS4301/Sp25/Powerpoint Summaries/ER-Diagrams.md",
     "CIS4301/Sp25/Powerpoint Summaries/ER-Conversion.md",
-    "CIS4301/Sp25/Powerpoint Summaries/DBMS.md",
-    "CIS4301/Sp25/Powerpoint Summaries/Relational Algebra Sets.md",
     "CIS4301/Sp25/Powerpoint Summaries/Untitled",
-    "CIS4301/Sp25/Lecture Summaries/Lecture 3.md",
-    "CIS4301/Sp25/Lecture Summaries/Lecture 2.md",
-    "CIS4301/Sp25/Exam Review/Exam 1 Cheat Sheet.md",
-    "CIS4360/Chapter Summaries/Chapter 9.md",
-    "CIS4360/Chapter Summaries/Chapter 8.md",
     "CIS4360/Chapter Summaries",
     "CIS4360/Lecture Summaries",
     "CIS4360/untitled folder",
@@ -255,7 +222,6 @@
     "CIS4360",
     "CIS4301/Sp25/Exam Review",
     "Untitled.canvas",
-    "CIS4301/Sp25/Powerpoint Summaries",
-    "CIS4301/Sp25/Lecture Summaries"
+    "CIS4301/Sp25/Powerpoint Summaries"
   ]
 }
