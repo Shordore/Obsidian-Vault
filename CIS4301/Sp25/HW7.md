@@ -22,8 +22,8 @@
 
 
 <b>Part 2:</b>
-1.`SELECT DISTINCT Booking.agent FROM Booking JOIN Trip ON Booking.trip_id = Trip.id WHERE Trip.start_date > CURRENT_DATE();`
-![[Pasted image 20250417215542.png]]
+1.`SELECT DISTINCT Booking.agent FROM Booking JOIN ActiveTrips ON Booking.trip_id = ActiveTrips.id;`
+![[Pasted image 20250423162821.png]]
 
 2.`SELECT country FROM PassportHoldersByCountry ORDER BY passport_count DESC LIMIT 1;`
 ![[Pasted image 20250417215556.png]]
